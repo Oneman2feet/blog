@@ -9,3 +9,5 @@ Instead, send a message giving context for the call and respectfully asking perm
   - Opportunity for alternatives and fallback plans in case a call is not possible
 
 Thank you for not cold calling your coworkers, and please be understanding if your unscheduled calls are not picked up.
+
+Inspired by (nohello)[https://sbmueller.github.io/nohello/].
