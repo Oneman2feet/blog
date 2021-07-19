@@ -1,4 +1,4 @@
-Nocall
+nocall
 ======
 
 Please don't cold call team members without context. It interrupts [flow state](https://medium.com/software-development/the-people-that-work-for-you-need-to-get-into-flow-peopleware-4ad5d64b1467), can cause anxiety, and brings with it an artificial sense of urgency. Cold calling can be presumptive that what you are calling about is more important than the recipient's current activity, and in combination with workplace power dynamics, could put your teammate in a tricky spot.
