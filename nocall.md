@@ -10,4 +10,4 @@ Instead, send a message giving context for the call and respectfully asking perm
 
 Thank you for not cold calling your coworkers, and please be understanding if your unscheduled calls are not picked up.
 
-Inspired by (nohello)[https://sbmueller.github.io/nohello/].
+Inspired by [nohello](https://sbmueller.github.io/nohello/).
